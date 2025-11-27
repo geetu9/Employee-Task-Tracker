@@ -28,4 +28,6 @@ https://github.com/user-attachments/assets/fc78e747-0890-4e8e-a497-51cd604b4613
 2. No backend server is needed because all data is stored locally.
 3. The app is meant for simple task tracking for small teams or personal use.
 
+   live project url:- https://employee-tasks-tracker.netlify.app/
+
 
